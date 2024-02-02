@@ -1,3 +1,8 @@
+#Project ID - #CC9875
+#Project Title - Basic Calculator
+#Internship Domain - Python Development Intern
+#Project Level - Entry Level
+
 import tkinter as tk
 
 class SimpleCalculator:
